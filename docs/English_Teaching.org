@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: b2bb832b-f256-454e-bd11-670e14f11db1
+:ROAM_ORIGIN: 73665baf-794e-4045-93b2-edf6676199e7
+:END:
+#+TITLE: English Teaching
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:ACADEMIC:TEACHING:
+#+HTML:<details>
+
+* DONE English Teaching :DOC:META:ACADEMIC:TEACHING:
+CLOSED: [2024-12-02 Mon 11:59] SCHEDULED: <2024-12-01 Sun 20:00>
+#+HTML:</details>
+- *Goal(s):* create lesson plan for English teaching
+- tel:[Khánh Vi]

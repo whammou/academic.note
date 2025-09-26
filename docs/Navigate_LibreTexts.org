@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID: 73665baf-794e-4045-93b2-edf6676199e7
+:END:
+#+TITLE: Navigate LibreTexts
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:ACADEMIC:
+#+HTML:<details>
+
+* PENDING Navigate LibreTexts :DOC:META:ACADEMIC:
+#+HTML:</details>
+- *Goal(s):* Learn to navigate LibreTexts database
+- *Stumble upon:* [[https://www.directtextbook.com/articles/926/libretexts][navigate LibreTexts]]
+** How LibreTexts works
+LibreTexts features subject libraries organized in three ~resource~ types:
+
+1. *Bookshelves:* ~bookshelves~ are comprised of *textbooks* 
+   - Created by the non profits development team
+   - ~bookshelves~ also hold *text maps* - which are OER /(Open Education Sources)/
+2. *Learning Objects:* Ancillary content like laboratory experiments. *Interactive Visualizations*, math simulations, reference items, practice worksheets and assessment materials
+3. *Campus Bookshelves:* Customized, campus curated and mixed from existing content

@@ -1,0 +1,9 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Academic Oneoff Tasks
+
+* List of Oneoff Tasks :TASK:ONEOFF:ACADEMIC:META:
+** PENDING Self-study Using AI :AI:STUDY:
+- *OBJECTIVE:* Self studying techniques incorporate AI as helper
+- *Reference:* [[https://old.reddit.com/r/studytips/comments/1bp3vah/what_ai_so_you_use_for_studying/][Self-study with AI tips @Reddit]]
