@@ -1,4 +1,0 @@
-#+TITLE: Academic Lists
-#+DESCRIPTION: Store items for later visits
-
-* Lists :LIST:ACADEMIC:
