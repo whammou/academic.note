@@ -4,6 +4,6 @@
 #+TITLE: Academic Oneoff Tasks
 
 * List of Oneoff Tasks :TASK:ONEOFF:ACADEMIC:META:
-** PENDING Self-study Using AI :AI:STUDY:
+** PEND Self-study Using AI :AI:STUDY:
 - *OBJECTIVE:* Self studying techniques incorporate AI as helper
 - *Reference:* [[https://old.reddit.com/r/studytips/comments/1bp3vah/what_ai_so_you_use_for_studying/][Self-study with AI tips @Reddit]]

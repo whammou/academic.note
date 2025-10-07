@@ -9,7 +9,7 @@
 #+FILETAGS: :DOC:PROJECT:ACADEMIC:
 #+HTML:<details>
 
-* PENDING Navigate LibreTexts :DOC:META:ACADEMIC:
+* PEND Navigate LibreTexts :DOC:META:ACADEMIC:
 #+HTML:</details>
 - *Goal(s):* Learn to navigate LibreTexts database
 - *Stumble upon:* [[https://www.directtextbook.com/articles/926/libretexts][navigate LibreTexts]]
