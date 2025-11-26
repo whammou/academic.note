@@ -4,3 +4,15 @@
 #+TITLE: Academic Planned Tasks
 
 * List of Planned Tasks :TASK:PLANNED:ACADEMIC:META:
+** TODO Learn Web Search :webserach:
+DEADLINE: <2025-11-27 Thu>
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-26 Wed 05:46] \\
+  Using tool such as:
+  + =searchengine= such as =searxng= to navigate the web
+  + Fine tune tool for niche problem such as =opencode= and =ai=
+:END:
+#+html:</details>
+- *OBJECTIVE:* Learn to sufficiently search the =web=
