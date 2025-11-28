@@ -5,7 +5,7 @@
 
 * List of Planned Tasks :TASK:PLANNED:ACADEMIC:META:
 ** TODO Learn Web Search :webserach:
-DEADLINE: <2025-11-27 Thu>
+DEADLINE: <2025-11-28 Fri>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
