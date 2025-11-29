@@ -4,8 +4,8 @@
 #+TITLE: Academic Planned Tasks
 
 * List of Planned Tasks :TASK:PLANNED:ACADEMIC:META:
-** TODO Learn Web Search :webserach:
-DEADLINE: <2025-11-29 Sat>
+** DONE Learn Web Search :webserach:
+DEADLINE: <2025-11-29 Sat> CLOSED: [2025-11-29 Sat 16:14]
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -16,3 +16,4 @@ DEADLINE: <2025-11-29 Sat>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Learn to sufficiently search the =web=
+- *Reference:* [[https://docs.searxng.org/user/search-syntax.html][Searxng search syntax @Doc]]
