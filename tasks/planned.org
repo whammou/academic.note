@@ -1,0 +1,19 @@
+#+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Academic Planned Tasks
+
+* List of Planned Tasks :TASK:PLANNED:ACADEMIC:META:
+** DONE Learn Web Search :webserach:
+DEADLINE: <2025-11-29 Sat> CLOSED: [2025-11-29 Sat 16:14]
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-26 Wed 05:46] \\
+  Using tool such as:
+  + =searchengine= such as =searxng= to navigate the web
+  + Fine tune tool for niche problem such as =opencode= and =ai=
+:END:
+#+html:</details>
+- *OBJECTIVE:* Learn to sufficiently search the =web=
+- *Reference:* [[https://docs.searxng.org/user/search-syntax.html][Searxng search syntax @Doc]]
