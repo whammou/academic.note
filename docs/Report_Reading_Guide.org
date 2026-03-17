@@ -7,10 +7,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :DOC:PROJECT:ACADEMIC:GUIDE:
+#+FILETAGS: :DOC:PROJECT:@Academic:GUIDE:
 #+HTML:<details>
 
-* DONE Report Reading Guide :DOC:META:ACADEMIC:GUIDE:
+* DONE Report Reading Guide :DOC:#Meta:@Academic:GUIDE:
 CLOSED: [2024-08-30 Fri 20:55]
 #+HTML:</details>
 :PROPERTIES:
