@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Academic Planned Tasks
 
-* List of Planned Tasks :TASK:PLANNED:@Academic:#Meta:
+* List of Planned Tasks :%Task:PLANNED:@Academic:#Meta:
 ** DONE Learn Web Search :webserach:
 DEADLINE: <2025-11-29 Sat> CLOSED: [2025-11-29 Sat 16:14]
 #+name:LOGBOOK

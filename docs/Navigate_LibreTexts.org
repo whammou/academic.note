@@ -6,10 +6,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :DOC:PROJECT:@Academic:
+#+FILETAGS: :%Doc:@Project:@Academic:
 #+HTML:<details>
 
-* PEND Navigate LibreTexts :DOC:#Meta:@Academic:
+* PEND Navigate LibreTexts :%Doc:#Meta:@Academic:
 #+HTML:</details>
 - *Goal(s):* Learn to navigate LibreTexts database
 - *Stumble upon:* [[https://www.directtextbook.com/articles/926/libretexts][navigate LibreTexts]]
