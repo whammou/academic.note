@@ -1,6 +1,6 @@
 #+TITLE: Academic – Overview
 #+DESCRIPTION: Academic notes and research materials.
-#+FILETAGS: :@Academic:
+#+FILETAGS: :ACADEMIC:
 
 * Overview
   Academic notes and research materials covering coursework, papers, and study guides.
@@ -19,8 +19,8 @@
 * Tag & State Conventions (inherited from the main repo)
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
-    :@Academic:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:@Academic:@Note:RESEARCH:=
+    :ACADEMIC:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:ACADEMIC:NOTE:RESEARCH:=
 
 * Typical Files
   - =docs/<something>.org= – detailed notes, tutorials, or reference material.
@@ -36,5 +36,5 @@
 
 * References
   - Main repository README.org – overall philosophy, state & tag definitions:
-    [[file:../README.org:@Note:#STATES and TAGS][Main README – STATES & TAGS]]
+    [[file:../README.org:NOTE:#STATES and TAGS][Main README – STATES & TAGS]]
   - External tools: nvim‑orgmode, Orgzly‑android (see main README for integration tips).
