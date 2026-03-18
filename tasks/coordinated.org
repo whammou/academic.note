@@ -3,4 +3,4 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Academic Coordinated Tasks
 
-* List of Coordinated Tasks :%Task:_Coordinated:ACADEMIC:meta:
+* List of Coordinated Tasks :typTask:catCoordinated:ACADEMIC:meta:
