@@ -47,8 +47,16 @@ Most economics model don't represent the reality instead the are trying approxim
     #+begin_html html
     <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
     #+end_html
-** DOIN Market Economy vs Command Economy
+** DONE Market Economy vs Command Economy
+CLOSED: [2026-04-15 Wed 23:08]
 :PROPERTIES:
 :ID: dd11bc33-eb3f-4ee8-b7f4-70aedaac7126
 :END:
+- *Command Economy:*
+  + Trying to even things out among people /e.g. Soviet Union economy/
+  + Government decides the economy /(Too much to handle -> shortages, corruption, waiting list, etc)/
+
+- *Market Economy:*
+  + Don't try to even things out instead let,
+  + Individual decides their own needs and production
 
