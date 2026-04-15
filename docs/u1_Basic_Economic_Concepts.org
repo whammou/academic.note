@@ -27,7 +27,8 @@ CLOSED: [2026-04-15 Wed 21:47]
     * Intuitively
     * Graphically
     * Mathematically
-** DOIN Supply and Demand :content:
+** DONE Supply and Demand :content:
+CLOSED: [2026-04-15 Wed 22:21]
 :PROPERTIES:
 :ID: b72f144a-563a-424d-a3dc-c580db11e87c
 :END:
@@ -41,7 +42,13 @@ Most economics model don't represent the reality instead the are trying approxim
 - *Supply and Demand Model*
   + *Demand -* How much people want it! /(The greater the demand, the higher the price)/
   + *Supply -* How much is available /(The greater the supply, the lower the price)/
-  + *Equilibrium point -* The point in which both the consumer and the provider are happy to purchase and provides the goods /(This is where the "demand" curve intersect with the "supply" curve)/ \\
+  + *Equilibrium point -* The point in which both the consumer and the provider are happy to purchase and provides the goods /(This is where the "demand" curve intersects with the "supply" curve)/ \\
+    #+name: Equilibrium Point
     #+begin_html html
     <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
     #+end_html
+** DOIN Market Economy vs Command Economy
+:PROPERTIES:
+:ID: dd11bc33-eb3f-4ee8-b7f4-70aedaac7126
+:END:
+
