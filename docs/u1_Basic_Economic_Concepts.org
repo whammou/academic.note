@@ -43,6 +43,6 @@ Most economics model don't represent the reality instead the are trying approxim
   + *Supply -* How much is available /(The greater the supply, the lower the price)/
   + *Equilibrium point -* The point in which both the consumer and the provider are happy to purchase and provides the goods /(This is where the "demand" curve intersect with the "supply" curve)/
 
-#+begin_html html
-<img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
-#+end_html
+    #+begin_html html
+    <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
+    #+end_html
