@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID: c29ee0f9-a4a9-47df-8863-30afbecfaef2
+:END:
+#+TITLE: u1. Basic Economic Concepts
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
+#+FILETAGS: :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
+#+HTML:<details>
+* u1. Basic Economic Concepts :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
+
+#+HTML:</details>
+** DONE Introduction :content:
+CLOSED: [2026-04-15 Wed 21:47]
+:PROPERTIES:
+:ID: ab54b2d9-be48-49d8-af29-dfcb65f72662
+:END:
+- *Terminologies:*
+  + *Opportunity Cost* - The cost of any action in terms of what you could have done instead
+
+  + *Constrained Optimization*
+    * Constrained -> Every decision has an =opportunity cost=
+    * Optimization -> Make yourself as well off as possible
+
+  + *Model*
+    * To simplify things down /(strip down the variables e.g. Occam razor)/
+    * Intuitively
+    * Graphically
+    * Mathematically
+** DOIN Supply and Demand :content:
+:PROPERTIES:
+:ID: b72f144a-563a-424d-a3dc-c580db11e87c
+:END:
+
+#+name: Model limitations
+#+begin_quote markdown
+[!WARNING]
+Most economics model don't represent the reality instead the are trying approximate it
+#+end_quote
+
+- *Supply and Demand Model*
+  + *Demand -* How much people want it! /(The greater the demand, the higher the price)/
+  + *Supply -* How much is available /(The greater the supply, the lower the price)/
+  + *Equilibrium point -* The point in which both the consumer and the provider are happy to purchase and provides the goods /(This is where the "demand" curve intersect with the "supply" curve)/
+    #+begin_html html
+    <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
+    #+end_html
