@@ -8,6 +8,9 @@
 #+FILETAGS: :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
 #+HTML:<details>
 * u1. Basic Economic Concepts :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
+:PROPERTIES:
+:ORGANIZATION: MITx
+:END:
 
 #+HTML:</details>
 ** DONE Introduction :content:
