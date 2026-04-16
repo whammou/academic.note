@@ -11,7 +11,6 @@
 :PROPERTIES:
 :ORGANIZATION: MITx
 :END:
-
 #+HTML:</details>
 ** DONE Introduction :content:
 CLOSED: [2026-04-15 Wed 21:47]
@@ -50,7 +49,7 @@ Most economics model don't represent the reality instead the are trying approxim
     #+begin_html html
     <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
     #+end_html
-** DONE Market Economy vs Command Economy
+** DONE Market Economy vs Command Economy :content:
 CLOSED: [2026-04-15 Wed 23:08]
 :PROPERTIES:
 :ID: dd11bc33-eb3f-4ee8-b7f4-70aedaac7126
@@ -62,4 +61,19 @@ CLOSED: [2026-04-15 Wed 23:08]
 - *Market Economy:*
   + Don't try to even things out instead let,
   + Individual decides their own needs and production
+** DOIN Preferences :content:
+:PROPERTIES:
+:ID: 4a517f0c-64b0-47a1-9d0b-69c197d223e7
+:END:
+- *Preferences:*
+  + Can be either =indifferent= or =prefer=
+  + Logically consistent
+  + More is better /(to some extend)/
+  + =preference curve= - A condensed or simplify preference of some aspects
+
+- *Properties of a map of indifference curve:*
+  1. =consumer= prefer higher indifference curves
+  2. Are downward sloping
+  3. Never cross
+  4. There is *one* indifference curve through each possible =bundle=
 
