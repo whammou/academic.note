@@ -1,15 +1,16 @@
 :PROPERTIES:
 :ID: c29ee0f9-a4a9-47df-8863-30afbecfaef2
 :END:
-#+TITLE: u1. Basic Economic Concepts
+#+TITLE: Basic Economic Concepts
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
 #+HTML:<details>
-* u1. Basic Economic Concepts :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
+* Basic Economic Concepts :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
 :PROPERTIES:
 :ORGANIZATION: MITx
+:UNIT: 1
 :END:
 #+HTML:</details>
 ** DONE Introduction :content:
