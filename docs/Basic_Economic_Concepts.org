@@ -84,7 +84,7 @@ CLOSED: [2026-04-16 Thu 21:04]
      #+end_html
 
 - A level of =total ultility= represents the level of satisfaction when choosing a =bundle= /-> higher level of total utility leads to better satisfaction/
-** DOIN Utility Functions and Marginal Utility
+** DOIN Utility Functions and Marginal Utility :content:
 :PROPERTIES:
 :ID: 495618d0-7311-43fd-b470-0eb48035afb3
 :END:
@@ -99,7 +99,32 @@ With each extra unit of a good increase =utility= by less than the previous unit
 #+end_quote
 
 #+name: Difference in DMU
-#+begin_quote markdown
+#+begin_quote org
 [!TIP]
 Different goods come with different level of =DMU= /e.g. socks vs newspaper/
 #+end_quote
+*** Application - Soda pricing
+:PROPERTIES:
+:ID: 12c79704-b4e9-42fb-8698-6df2b09e9855
+:END:
+
+#+name: DMU examples
+#+begin_quote org
+One of the best examples of diminishing marginal utility is how stores price different size of goods. It shows how =utility= and =supply-and-demand= works together
+#+end_quote
+
+- Demand is high from *some* drink, but NOT so high for *additional* drink
+  + On a hot day demand for a drinks is higher but demand for *additional* drink will be lower -> /Diminishing marginal utility in action/
+  + Lower price could be charge for *additional* drink
+*** The Math Behind Utility Functions
+:PROPERTIES:
+:ID: d015c3c8-358e-4683-a2d1-51087b8043d5
+:END:
+- There are lot of different =utility functions= 
+- A =utility function= should:
+  + Be realistic
+    * More is better
+    * Have a =diminishing= component
+  + Easy to work with
+  + e.g. $$U = \sqrt{(P*C)}$$ 
+
