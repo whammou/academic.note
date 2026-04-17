@@ -89,8 +89,17 @@ CLOSED: [2026-04-16 Thu 21:04]
 :ID: 495618d0-7311-43fd-b470-0eb48035afb3
 :END:
 
-#+name: Utility Function
-#+begin_quote markdown
-Utility function - A mathematical expression that translates bundles of goods into a single valuation of utility
+- *Utility function -* A mathematical expression that translates bundles of goods into a single valuation of utility
+- *Marginal Utility -* The change in utility from each additional good you consume
+
+#+name: Dimishing Margin utility
+#+begin_quote org
+[!NOTE]
+With each extra unit of a good increase =utility= by less than the previous unit of the good this is called *Diminishing Margin Utility* /(DMU)/
 #+end_quote
 
+#+name: Difference in DMU
+#+begin_quote markdown
+[!TIP]
+Different goods come with different level of =DMU= /e.g. socks vs newspaper/
+#+end_quote
