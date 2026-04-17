@@ -84,7 +84,8 @@ CLOSED: [2026-04-16 Thu 21:04]
      #+end_html
 
 - A level of =total ultility= represents the level of satisfaction when choosing a =bundle= /-> higher level of total utility leads to better satisfaction/
-** DOIN Utility Functions and Marginal Utility :content:
+** DONE Utility Functions and Marginal Utility :content:
+CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: 495618d0-7311-43fd-b470-0eb48035afb3
 :END:
@@ -103,7 +104,8 @@ With each extra unit of a good increase =utility= by less than the previous unit
 [!TIP]
 Different goods come with different level of =DMU= /e.g. socks vs newspaper/
 #+end_quote
-*** Application - Soda pricing
+*** DONE Application - Soda pricing
+CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: 12c79704-b4e9-42fb-8698-6df2b09e9855
 :END:
@@ -116,7 +118,8 @@ One of the best examples of diminishing marginal utility is how stores price dif
 - Demand is high from *some* drink, but NOT so high for *additional* drink
   + On a hot day demand for a drinks is higher but demand for *additional* drink will be lower -> /Diminishing marginal utility in action/
   + Lower price could be charge for *additional* drink
-*** The Math Behind Utility Functions
+*** DONE The Math Behind Utility Functions
+CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: d015c3c8-358e-4683-a2d1-51087b8043d5
 :END:
@@ -127,4 +130,8 @@ One of the best examples of diminishing marginal utility is how stores price dif
     * Have a =diminishing= component
   + Easy to work with
   + e.g. $$U = \sqrt{(P*C)}$$ 
+** DOIN Introduction to Budget Constraints :content:
+:PROPERTIES:
+:ID: 96082b7f-8130-4528-98f4-cf59bf3cfa0b
+:END:
 
