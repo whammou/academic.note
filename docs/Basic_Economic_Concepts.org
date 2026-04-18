@@ -134,4 +134,17 @@ CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: 96082b7f-8130-4528-98f4-cf59bf3cfa0b
 :END:
+- *Budget Constraint -* Measure what you can afford to buy
+  + Assuming individual *budget constraint* is their *incomes* /-> living from paycheck to paycheck/
+  + Form a horizontal line graphically \\
+    #+name: Budget Constraint Graph
+    #+begin_html html
+    <img src="https://www.intelligenteconomist.com/wp-content/uploads/2019/07/Step-3-Interpret-the-graph.png" style="width:50%;"/>
+    #+end_html
+  + *Opportunity cost* is represented by *price ratio* /(slope of the budget constraint curve)/
 
+#+name: Price Ratio and Slop
+#+begin_quote org
+[!NOTE]
+Opportunity cost can be represented by the value of the =slope= of a curve that is: $$m = \frac{dy}{dx}$$ 
+#+end_quote
