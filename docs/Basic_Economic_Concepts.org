@@ -130,21 +130,66 @@ CLOSED: [2026-04-17 Fri 21:21]
     * Have a =diminishing= component
   + Easy to work with
   + e.g. $$U = \sqrt{(P*C)}$$ 
-** DOIN Introduction to Budget Constraints :content:
+** DONE Budget Constraints :content:
+CLOSED: [2026-04-18 Sat 20:57]
 :PROPERTIES:
 :ID: 96082b7f-8130-4528-98f4-cf59bf3cfa0b
 :END:
-- *Budget Constraint -* Measure what you can afford to buy
+
+#+name: Keypoints
+#+begin_quote org
+A Budget constrain measures how much of the goods an individual can afford to buy. Maximum budget constraints is defined by an individual paycheck
+#+end_quote
+
+*** Introduction to Budget Constraints
+:PROPERTIES:
+:ID: aad77c92-d32d-4035-bfd5-76b714e51de6
+:END:
+
+- *Budget Constraint properties:*
   + Assuming individual *budget constraint* is their *incomes* /-> living from paycheck to paycheck/
-  + Form a horizontal line graphically \\
+  + Form a horizontal line graphically
+  + *Opportunity cost* is represented by *price ratio* /(slope of the budget constraint curve)/ \\
+
     #+name: Budget Constraint Graph
     #+begin_html html
-    <img src="https://www.intelligenteconomist.com/wp-content/uploads/2019/07/Step-3-Interpret-the-graph.png" style="width:50%;"/>
+    <img src="https://pressbooks.bccampus.ca/uvicecon103/wp-content/uploads/sites/58/2016/12/Screen-Shot-2016-12-31-at-3.56.18-PM.png" style="width:50%;"/>
     #+end_html
-  + *Opportunity cost* is represented by *price ratio* /(slope of the budget constraint curve)/
 
 #+name: Price Ratio and Slop
 #+begin_quote org
 [!NOTE]
-Opportunity cost can be represented by the value of the =slope= of a curve that is: $$m = \frac{dy}{dx}$$ 
+Opportunity cost can be represented by the value of the =slope= of a curve that is: $$m = \frac{\Delta{y}}{\Delta{x}}$$ 
 #+end_quote
+*** Budget Constraints with Changing Income and Prices
+:PROPERTIES:
+:ID: 211398f7-4765-46d3-84c0-fb363df7e8f6
+:END:
+
+#+name: Keypoints
+#+begin_quote org
+Is it possible to manipulate the budget constraints to represent a change in price or a change in income
+#+end_quote
+
+- *Change in income*
+  + =slope= stays the same
+  + new =budget curve= is parallel to original curve \\
+    #+name: Changes in budget
+    #+begin_html html
+    <img src="https://pressbooks.bccampus.ca/uvicecon103/wp-content/uploads/sites/58/2016/12/Screen-Shot-2016-12-31-at-4.17.02-PM.png" style="width:50%;"/>
+    #+end_html
+
+- *Change in price*
+  + =slope= is altered
+  + new =budget curve= can shift inwards/outwards
+    * Shifting inwards -> more affordable
+    * Shifting outwards -> less affordable \\
+    #+name: changes in price
+    #+begin_html html
+    <img src="https://pressbooks.bccampus.ca/uvicecon103/wp-content/uploads/sites/58/2016/12/Screen-Shot-2016-12-31-at-5.56.38-PM.png" style="width:50%;"/>
+    #+end_html
+** DOIN Utility Maximization :content:
+:PROPERTIES:
+:ID: 587d8f6b-008e-40d7-9397-b285b19df081
+:END:
+
