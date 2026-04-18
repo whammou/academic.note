@@ -224,7 +224,7 @@ CLOSED: [2026-04-18 Sat 21:38]
 
 - *Marginal Cost* /(MC)/
   + Opportunity cost of next unit
-  + =MC= = =opportunity cost= = =slope= = $$\frac{\Delta goods}{\Delta opportunity}$$ 
+  + =MC= = =opportunity cost= = =slope= = $$\frac{\Delta \text{goods}}{\Delta \text{opportunity}}$$ 
 
 - Comparing =MB= and =MC= of the *next* unit
   + if =MB= > =MC= -> Consume more goods /(climbing up the hill)/
