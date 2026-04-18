@@ -159,7 +159,7 @@ A Budget constrain measures how much of the goods an individual can afford to bu
 #+name: Price Ratio and Slop
 #+begin_quote org
 [!TIP]
-Opportunity cost can be represented by the value of the =slope= of a curve that is: $$m = \frac{\Delta{y}}{\Delta{x}}$$ 
+Opportunity cost can be represented by the value of the =slope= of a curve that is: $$m = \frac{\Delta y}{\Delta x}$$ 
 #+end_quote
 *** Budget Constraints with Changing Income and Prices
 :PROPERTIES:
@@ -224,7 +224,7 @@ CLOSED: [2026-04-18 Sat 21:38]
 
 - *Marginal Cost* /(MC)/
   + Opportunity cost of next unit
-  + =MC= = =opportunity cost= = =slope= = $$\frac{\Delta{goods}}{\Delta{opportunity}}$$ 
+  + =MC= = =opportunity cost= = =slope= = $$\frac{\Delta goods}{\Delta opportunity}$$ 
 
 - Comparing =MB= and =MC= of the *next* unit
   + if =MB= > =MC= -> Consume more goods /(climbing up the hill)/
