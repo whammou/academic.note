@@ -220,11 +220,11 @@ CLOSED: [2026-04-18 Sat 21:38]
 
 - *Marginal Benefit* /(MB)/
   + Increase in utility from one more unit
-  + Can be express as $$\frac{\text{marginal utility of goods}}{\text{marginal utility of opportunity}}$$ 
+  + Can be express as $$\frac{\text{marginal utility of pizza}}{\text{marginal utility of cookie}}$$ 
 
 - *Marginal Cost* /(MC)/
   + Opportunity cost of next unit
-  + =MC= = =opportunity cost= = =slope= = $$\frac{\Delta \text{goods}}{\Delta \text{opportunity}}$$ 
+  + =MC= = =opportunity cost= = =slope= = $$\frac{\Delta \text{pizza}}{\Delta \text{cookie}}$$ 
 
 - Comparing =MB= and =MC= of the *next* unit
   + if =MB= > =MC= -> Consume more goods /(climbing up the hill)/
