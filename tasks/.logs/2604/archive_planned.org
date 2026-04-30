@@ -1,0 +1,20 @@
+* DONE Learn Web Search :webserach:
+DEADLINE: <2025-11-29 Sat> CLOSED: [2025-11-29 Sat 16:14]
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-30 Thu 21:21
+:ARCHIVE_FILE: /home/whammou/Journal/topics/academic/tasks/planned.org
+:ARCHIVE_OLPATH: List of Planned Tasks
+:ARCHIVE_CATEGORY: planned
+:ARCHIVE_TODO: DONE
+:END:
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-26 Wed 05:46] \\
+Using tool such as:
++ =searchengine= such as =searxng= to navigate the web
++ Fine tune tool for niche problem such as =opencode= and =ai=
+:END:
+#+html:</details>
+- *OBJECTIVE:* Learn to sufficiently search the =web=
+- *Reference:* [[https://docs.searxng.org/user/search-syntax.html][Searxng search syntax @Doc]]
