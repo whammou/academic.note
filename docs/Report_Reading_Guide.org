@@ -4,14 +4,9 @@
 :END:
 #+TITLE: Report Reading Guide
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:ACADEMIC:GUIDE:
-#+HTML:<details>
-
-* DONE Report Reading Guide :typDoc:meta:ACADEMIC:GUIDE:
-CLOSED: [2024-08-30 Fri 20:55]
-#+HTML:</details>
 :PROPERTIES:
 :ARCHIVE_TIME: 2024-09-10 Tue 22:06
 :ARCHIVE_FILE: /home/whammou/notes/personal.org
@@ -19,7 +14,7 @@ CLOSED: [2024-08-30 Fri 20:55]
 :ARCHIVE_TODO: 
 :END:
 - *Goal:* efficiently read an academic report
-** Common Components Of Original Research Articles
+* [#A] Common Components Of Original Research Articles
 1. *Authors:* Describes who is responsible for this work. Maybe one person, a group, or an institution. Make note of authors and institutions you see repeatedly during your research process
 2. *Abstract:* summarize article contents and findings; may include methodology
 3. *Keywords:* Describe the content in quick words or phrases. Help you place the work in context with other literature. Good for quick reference
@@ -27,7 +22,7 @@ CLOSED: [2024-08-30 Fri 20:55]
 5. *Literature Review:* Places the research in context with prior work. Analyses important contributions that the ~author~ believe are relevant and that the article build upon to create new knowledge. Sometimes includes a theoretical framework good place to look to find additional sources for you research
 6. *Methods:* An explanation of how and why the authors approached the examination of their question and the collection of date. May include information about the limitations of their chosen methodology 
 7. *Conclusion:* A synthesis of the findings and importance of the research
-** While You read
+* [#A] While You read
 ~Reading a scholarly article isn't like reading a novel. Its likely you won't read absorb it from beginning to end, all at once~
 
 Asking a series of question as you do your research. Your reading should be guided by your topic or your own research question or thesis
@@ -44,7 +39,7 @@ For Example:
   - Does the article offer a helpful framework for understand my topic or question?
   - Do the ~author~ use interesting or innovative methods to conduct their research that might be relevant to me?
   - Does the article contain references I might consult for further information?
-** In Practice
+* [#A] In Practice
 Many scholarly articles are organized to help you scan and skin efficiently. The next time you need to read an article, practice scanning eh following sections and skin their contents
 
 - *The abstract:* this summary provides a birds eye view of the article contents
@@ -54,8 +49,8 @@ Many scholarly articles are organized to help you scan and skin efficiently. The
 - *Section Headings:* Stop and skim those sections you may find relevant
 - *Figures:* Offer a lot of information in quick visual format
 - *The conclusion:* What are the findings and/or conclusions of this article?
-** Reading Strategies
-*** Markup your text
+* [#A] Reading Strategies
+** Markup your text
 Read with purpose
 
 - Scanning and skimming with a pin in hand can help to focus your reading
@@ -66,13 +61,13 @@ Read with purpose
 Categorize Information
 
 Create your own informal system of organization. It doesn't have to be complicated - Be sure it works for you
-*** Keywords
+** Keywords
 - Jot down a few of your own keywords for each articles. These keywords may correspond with important topics being addressed in class or in your research paper
 - Write keywords con print copies or use the built-in note taking features in reference management tools (Zotero or Endnote)
 - Your keywords and system of organization may grow more complex the deeper you get into your reading
   - Decide if the term essential your understanding of the article or if you can look it up later and keep scanning
-*** Reading for Citations
+** Reading for Citations
 Look to the literature review to identify the core references that relate to your topic. Literature reviews are typically organized by subtopic within a research 
-** Resources
+* [#A] Resources
 Youtube:* [[https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=66]]
 Resource:* [[https://libguides.brown.edu/evaluate/Read][Brown University Libarry]]

@@ -4,23 +4,19 @@
 :END:
 #+TITLE: Time Management
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:ACADEMIC:MANAGEMENT:
-#+HTML:<details>
-
-* PEND Time Management :typDoc:meta:ACADEMIC:MANAGEMENT:
-#+HTML:</details>
-** Resources:
+* [#A] Resources:
 :PROPERTIES:
 :CUSTOM_ID: tm-resources
 :END:
 - *Reddit:* [[https://redlib.seasi.dev/r/TimeManagement/][r/TimeManagement]]
 - *Task management:* [[https://www.notion.so/blog/tasks][notion.so]]
 - *Goal:* Find a good way to tasks into daily planning [[https://redlib.seasi.dev/r/ticktick/comments/1at2xij/what_is_a_good_way_to_group_tasks_into_a_daily/][reddit]]
-** Task Management
+* [#A] Task Management
 [[#tm-resources][resources]]
-*** Required skills
+** Required skills
 Task management means organizing and prioritizing responsibilities so you don't feel overwhelmed or miss important items or deadlines. Anything you need to do during the day
 - Replying emails 
 - Project contribution
@@ -30,7 +26,7 @@ Managing your time effectively means completing more tasks - which in turns, mea
 - *Communication -* It crucial to keep every on the same page by communicating that you expect to et done and whats beyond your bandwidth
 - *Multi-tasking -* Sometimes you will have to jiggle several tasks at once to complete your to-do list
 - *Goal-setting -* task management involves understanding your board objectives and creating small, achievable tasks to get yourself there. Identifying the day-to-day steps you'll need to take in order to hit an end-of-month deadline will help you progress steadily and smoothly
-*** Common task types - and how to manage them
+** Common task types - and how to manage them
 :PROPERTIES:
 :CUSTOM_ID: task_types
 :END:
@@ -40,7 +36,7 @@ Managing your time effectively means completing more tasks - which in turns, mea
 - *Recurring tasks -* recurring tasks happen regularly. Automate these items in your preferred calendar, adding notifications if necessary
 - *Emergency tasks -* Emergency tasks are unexpected and require immediate attention. Handle these as soon as possible to prevent them from snowballing into larger issues
 - *Performance tasks -* performance tasks are what managers use to test capabilities.
-*** What to do if you have too many tasks
+** What to do if you have too many tasks
 If juggling several projects and responsibilities overwhelm you, knowing how to prioritize will ease the stress:
 
 - *Create a to-do list -* use daily and weekly todo lists to organize your tasks
@@ -55,6 +51,6 @@ help by visually displaying tasks and events so you know what to prioritize and 
 - *Keep your team in the loop -* Communicate with teams members when your /to-do/ list overwhelms you
   
 Some Noton templates can be found here: [[https://www.notion.so/blog/tasks][templates]]
-** DONE Effectively juggle tasks without burning out
+* DONE [#A] Effectively juggle tasks without burning out
 CLOSED: [2024-10-07 Mon 04:29]
 - *Source(s):* [[https://l.opnxng.com/r/productivity/comments/1bzy57h/how_to_effectively_juggle_multiple_highpriority/]]

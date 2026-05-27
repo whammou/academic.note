@@ -3,16 +3,12 @@
 :END:
 #+TITLE: Navigate LibreTexts
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:ACADEMIC:
-#+HTML:<details>
-
-* PEND Navigate LibreTexts :typDoc:meta:ACADEMIC:
-#+HTML:</details>
 - *Goal(s):* Learn to navigate LibreTexts database
 - *Stumble upon:* [[https://www.directtextbook.com/articles/926/libretexts][navigate LibreTexts]]
-** How LibreTexts works
+* [#A] How LibreTexts works
 LibreTexts features subject libraries organized in three ~resource~ types:
 
 1. *Bookshelves:* ~bookshelves~ are comprised of *textbooks* 

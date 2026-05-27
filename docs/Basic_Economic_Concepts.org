@@ -3,17 +3,10 @@
 :END:
 #+TITLE: Basic Economic Concepts
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
-#+HTML:<details>
-* Basic Economic Concepts :typDoc:meta:ACADEMIC:subCourse@APMicroeconomics:subEconomics:
-:PROPERTIES:
-:ORGANIZATION: MITx
-:UNIT: 1
-:END:
-#+HTML:</details>
-** DONE Introduction :content:
+* DONE [#A] Introduction :content:
 CLOSED: [2026-04-15 Wed 21:47]
 :PROPERTIES:
 :ID: ab54b2d9-be48-49d8-af29-dfcb65f72662
@@ -30,7 +23,7 @@ CLOSED: [2026-04-15 Wed 21:47]
     * Intuitively
     * Graphically
     * Mathematically
-** DONE Supply and Demand :content:
+* DONE [#A] Supply and Demand :content:
 CLOSED: [2026-04-15 Wed 22:21]
 :PROPERTIES:
 :ID: b72f144a-563a-424d-a3dc-c580db11e87c
@@ -50,7 +43,7 @@ Most economics model don't represent the reality instead the are trying approxim
     #+begin_html html
     <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
     #+end_html
-** DONE Market Economy vs Command Economy :content:
+* DONE [#A] Market Economy vs Command Economy :content:
 CLOSED: [2026-04-15 Wed 23:08]
 :PROPERTIES:
 :ID: dd11bc33-eb3f-4ee8-b7f4-70aedaac7126
@@ -62,7 +55,7 @@ CLOSED: [2026-04-15 Wed 23:08]
 - *Market Economy:*
   + Don't try to even things out instead let,
   + Individual decides their own needs and production
-** DONE Preferences :content:
+* DONE [#A] Preferences :content:
 CLOSED: [2026-04-16 Thu 21:04]
 :PROPERTIES:
 :ID: 4a517f0c-64b0-47a1-9d0b-69c197d223e7
@@ -84,7 +77,7 @@ CLOSED: [2026-04-16 Thu 21:04]
      #+end_html
 
 - A level of =total ultility= represents the level of satisfaction when choosing a =bundle= /-> higher level of total utility leads to better satisfaction/
-** DONE Utility Functions and Marginal Utility :content:
+* DONE [#A] Utility Functions and Marginal Utility :content:
 CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: 495618d0-7311-43fd-b470-0eb48035afb3
@@ -104,7 +97,7 @@ With each extra unit of a good increase =utility= by less than the previous unit
 [!TIP]
 Different goods come with different level of =DMU= /e.g. socks vs newspaper/
 #+end_quote
-*** DONE Application - Soda pricing
+** DONE Application - Soda pricing
 CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: 12c79704-b4e9-42fb-8698-6df2b09e9855
@@ -118,7 +111,7 @@ One of the best examples of diminishing marginal utility is how stores price dif
 - Demand is high from *some* drink, but NOT so high for *additional* drink
   + On a hot day demand for a drinks is higher but demand for *additional* drink will be lower -> /Diminishing marginal utility in action/
   + Lower price could be charge for *additional* drink
-*** DONE The Math Behind Utility Functions
+** DONE The Math Behind Utility Functions
 CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: d015c3c8-358e-4683-a2d1-51087b8043d5
@@ -130,7 +123,7 @@ CLOSED: [2026-04-17 Fri 21:21]
     * Have a =diminishing= component
   + Easy to work with
   + e.g. $$U = \sqrt{(P*C)}$$ 
-** DONE Budget Constraints :content:
+* DONE [#A] Budget Constraints :content:
 CLOSED: [2026-04-18 Sat 20:57]
 :PROPERTIES:
 :ID: 96082b7f-8130-4528-98f4-cf59bf3cfa0b
@@ -141,7 +134,7 @@ CLOSED: [2026-04-18 Sat 20:57]
 A Budget constrain measures how much of the goods an individual can afford to buy. Maximum budget constraints is defined by an individual paycheck
 #+end_quote
 
-*** Introduction to Budget Constraints
+** Introduction to Budget Constraints
 :PROPERTIES:
 :ID: aad77c92-d32d-4035-bfd5-76b714e51de6
 :END:
@@ -161,7 +154,7 @@ A Budget constrain measures how much of the goods an individual can afford to bu
 [!TIP]
 Opportunity cost can be represented by the value of the =slope= of a curve that is: $$m = \frac{\Delta y}{\Delta x}$$ 
 #+end_quote
-*** Budget Constraints with Changing Income and Prices
+** Budget Constraints with Changing Income and Prices
 :PROPERTIES:
 :ID: 211398f7-4765-46d3-84c0-fb363df7e8f6
 :END:
@@ -188,7 +181,7 @@ Is it possible to manipulate the budget constraints to represent a change in pri
     #+begin_html html
     <img src="https://pressbooks.bccampus.ca/uvicecon103/wp-content/uploads/sites/58/2016/12/Screen-Shot-2016-12-31-at-5.56.38-PM.png" style="width:50%;"/>
     #+end_html
-** PROG Utility Maximization :content:
+* PROG [#A] Utility Maximization :content:
 :PROPERTIES:
 :ID: 587d8f6b-008e-40d7-9397-b285b19df081
 :END:
@@ -208,7 +201,7 @@ Conceptually model the way in which individuals actually make decision
 [!NOTE]
 Economics is about constrained optimization. It tries to optimizing utility subject to constraint imposed by budgets
 #+end_quote
-*** DONE Marginal Analysis
+** DONE Marginal Analysis
 CLOSED: [2026-04-18 Sat 21:38]
 :PROPERTIES:
 :ID: a0101c34-b023-48d7-ae38-2ede41eebb60
@@ -230,7 +223,7 @@ CLOSED: [2026-04-18 Sat 21:38]
   + if =MB= > =MC= -> Consume more goods /(climbing up the hill)/
   + if =MB= < =MC= -> Consume less goods /(climbing down the hill)/
   + if =MB= = =MC= -> Stop /(on the top of the hill)/
-*** DOIN Graphical Interpretation
+** DOIN Graphical Interpretation
 :PROPERTIES:
 :ID: 90c63ed3-3b42-430f-8f01-28b93894b90d
 :END:
