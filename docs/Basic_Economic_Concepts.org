@@ -43,8 +43,8 @@ Most economics model don't represent the reality instead the are trying approxim
     #+begin_html html
     <img src="http://pressbooks.oer.hawaii.edu/principlesofmicroeconomics/wp-content/uploads/sites/5/2018/05/CNX_Econ_C03_003.jpg" style="width:50%;"/>
     #+end_html
-* DONE [#A] Market Economy vs Command Economy :content:
 CLOSED: [2026-04-15 Wed 23:08]
+* DONE [#B] Market Economy vs Command Economy :content:
 :PROPERTIES:
 :ID: dd11bc33-eb3f-4ee8-b7f4-70aedaac7126
 :END:
@@ -116,13 +116,13 @@ CLOSED: [2026-04-17 Fri 21:21]
 :PROPERTIES:
 :ID: d015c3c8-358e-4683-a2d1-51087b8043d5
 :END:
-- There are lot of different =utility functions= 
+- There are lot of different =utility functions=
 - A =utility function= should:
   + Be realistic
     * More is better
     * Have a =diminishing= component
   + Easy to work with
-  + e.g. $U = \sqrt{(P*C)}$ 
+  + e.g. $U = \sqrt{(P*C)}$
 * DONE [#A] Budget Constraints :content:
 CLOSED: [2026-04-18 Sat 20:57]
 :PROPERTIES:
