@@ -6,7 +6,7 @@
 
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :ACADEMIC:typDoc:subProject:GUIDE:
+#+FILETAGS: :topAcademic:typDoc:subProject:GUIDE:
 - *Goal:* efficiently read an academic report
 * [#A] Common Components Of Original Research Articles
 1. *Authors:* Describes who is responsible for this work. Maybe one person, a group, or an institution. Make note of authors and institutions you see repeatedly during your research process
