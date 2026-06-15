@@ -1,6 +1,0 @@
-#+TITLE: Academic Log
-#+DESCRIPTION: Logs of finished items
-#+FILETAGS: :topAcademic:LOG:
-
-* Logs :LOG:topAcademic:
-
