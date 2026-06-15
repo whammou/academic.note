@@ -3,7 +3,6 @@
 :ROAM_ORIGIN: 73665baf-794e-4045-93b2-edf6676199e7
 :END:
 #+TITLE: English Teaching
-
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topAcademic:typDoc:subProject:topTeaching:
