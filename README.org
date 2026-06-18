@@ -38,6 +38,3 @@
   - Main repository README.org – overall philosophy, state & tag definitions:
     [[file:../README.org:topNote:#STATES and TAGS][Main README – STATES & TAGS]]
   - External tools: nvim‑orgmode, Orgzly‑android (see main README for integration tips).
-  this is 
-fda
-fda
