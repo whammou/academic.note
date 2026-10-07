@@ -44,6 +44,9 @@ Many scholarly articles are organized to help you scan and skin efficiently. The
 - *Figures:* Offer a lot of information in quick visual format
 - *The conclusion:* What are the findings and/or conclusions of this article?
 * [#A] Reading Strategies
+:PROPERTIES:
+:ID: e73ad043-d031-4aee-b9bf-3ba9402917bd
+:END:
 ** Markup your text
 Read with purpose
 
