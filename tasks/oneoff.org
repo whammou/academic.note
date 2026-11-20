@@ -5,8 +5,3 @@
 * PEND Self-study Using AI :AI:STUDY:
 - *OBJECTIVE:* Self studying techniques incorporate AI as helper
 - *Reference:* [[https://old.reddit.com/r/studytips/comments/1bp3vah/what_ai_so_you_use_for_studying/][Self-study with AI tips @Reddit]]
-* TODO foo
-SCHEDULED: <2026-11-20 Fri 17:30-20:30>
-:PROPERTIES:
-:ID: 611b2e6f-6957-4fca-bac5-b96b6e8ded9e
-:END:
